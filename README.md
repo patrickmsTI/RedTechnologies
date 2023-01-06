@@ -11,5 +11,5 @@ API to Create, read, update and delete Orders
 # Build the application
 # Run the application in the desired browser
 # For your convenience, the swagger application will be open for testing the api
-# To autenticathe, use the Login endpoint with username="admin" and password="admin" to generate the Token. Copy the generated token and past on authorize of Swagger
+# To authenticate, use the Login endpoint with username="admin" and password="admin" to generate the Token. Copy the generated token and past on authorize of Swagger
 ```
